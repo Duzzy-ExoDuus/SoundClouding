@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Thu, 24 Oct 2019 12:00:00 +0000
+Source: soundclouding-gtk
+Binary: soundclouding-gtk
+Architecture: source all
+Version: 1.0.4-1
+Distribution: unstable
+Urgency: low
+Maintainer: Luis GuLo <luisgulo@gmail.com>
+Changed-By: Luis GuLo <luisgulo@gmail.com>
+Description:
+ soundclouding-gtk - gtk package for SoundClouding
+Changes:
+ soundclouding-gtk (1.0.4-1) unstable; urgency=low
+ .
+   * Se incluye idioma castellano e ingles
+   * Spanish and English language included
+Checksums-Sha1:
+ 951c33c0dd2a0993c440215426079ca133fd68cf 562 soundclouding-gtk_1.0.4-1.dsc
+ 873d8d54ea2791b3fc682b3469147a916292e603 845 soundclouding-gtk_1.0.4-1.tar.gz
+ 2cd350c1ea1223ab2e21cee85035dc0ca7736bc8 1360 soundclouding-gtk_1.0.4-1_all.deb
+ a9ff9935c8ab9fdbf55d71d827c7fe58c7e13eaf 4907 soundclouding-gtk_1.0.4-1_amd64.buildinfo
+Checksums-Sha256:
+ 465c57b7c8c68c099cf93817b51cbe863525d4de2cee1bf399a7a4bea7c9469c 562 soundclouding-gtk_1.0.4-1.dsc
+ 4200a6f90f795e52ad5f07e21593fd8bfbbd13130e79446ca9e199bbd72977ca 845 soundclouding-gtk_1.0.4-1.tar.gz
+ 516addd9982008b464e33a0971d5d7e6f7d96bfb43f86eef03a674712da494ae 1360 soundclouding-gtk_1.0.4-1_all.deb
+ dac60483efe30f425d585fd6d10acdd27da8a3c030840232bc8913f46beee137 4907 soundclouding-gtk_1.0.4-1_amd64.buildinfo
+Files:
+ cfd44b5865fa5bd5dc41a9410a608796 562 contrib/sound optional soundclouding-gtk_1.0.4-1.dsc
+ 67dca6e69c86f4de8c9f5349c9ca94fb 845 contrib/sound optional soundclouding-gtk_1.0.4-1.tar.gz
+ a099c22bd3476575da8b8faef0eaa839 1360 contrib/sound optional soundclouding-gtk_1.0.4-1_all.deb
+ 54f795c9e04cf75bd06ee332eb67b046 4907 contrib/sound optional soundclouding-gtk_1.0.4-1_amd64.buildinfo

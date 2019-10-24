@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Thu, 24 Oct 2019 12:00:00 +0000
+Source: soundclouding
+Binary: soundclouding
+Architecture: source all
+Version: 1.0.4-1
+Distribution: unstable
+Urgency: low
+Maintainer: Luis GuLo <luisgulo@gmail.com>
+Changed-By: Luis GuLo <luisgulo@gmail.com>
+Description:
+ soundclouding - Descarga a tu biblioteca local tus canciones de SoundClod para o.
+Changes:
+ soundclouding (1.0.4-1) unstable; urgency=low
+ .
+   * Se incluye idioma castellano e ingles
+   * Spanish and English language included
+Checksums-Sha1:
+ fe715b965c798b51660cc4520e81a79e256b9101 996 soundclouding_1.0.4-1.dsc
+ cf01f2e2b5765c4162d38a4c137d560493ef7d6c 1387 soundclouding_1.0.4-1.diff.gz
+ d32232479642571ec32ac45536a0e793b304b4e6 1715332 soundclouding_1.0.4-1_all.deb
+ 9877d527b19ae971d09b9aaa695b469210655e76 5449 soundclouding_1.0.4-1_amd64.buildinfo
+Checksums-Sha256:
+ 8d4866fdf5e2a7845bc8f2191817a1a4600c32862a029eb3eb8a078ab16253cf 996 soundclouding_1.0.4-1.dsc
+ dd96efb11c784e7ac7715d94d42570bcf602b286fb4086417a9cf989e12a6267 1387 soundclouding_1.0.4-1.diff.gz
+ 1b0fcc4cc2089f161a84a4a628469ad1db78bb78d315c89a0f35cc06ab40d87d 1715332 soundclouding_1.0.4-1_all.deb
+ fa2152f7fe10567b9f8dd0ff4633a0b065fed5b2c5627640d319105901d80019 5449 soundclouding_1.0.4-1_amd64.buildinfo
+Files:
+ 7fd5c8a8514bb0d88336e394f5dd0e1a 996 contrib/sound optional soundclouding_1.0.4-1.dsc
+ 9636e4fa733f5aeaf2f036170340b1d3 1387 contrib/sound optional soundclouding_1.0.4-1.diff.gz
+ e7aff5ae0ad7f1a0169dc12ccd11351b 1715332 contrib/sound optional soundclouding_1.0.4-1_all.deb
+ 3a97d709a451ae39c526fbfefb1b8b73 5449 contrib/sound optional soundclouding_1.0.4-1_amd64.buildinfo

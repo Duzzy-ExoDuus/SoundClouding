@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Thu, 24 Oct 2019 12:00:00 +0000
+Source: soundclouding-qt5
+Binary: soundclouding-qt5
+Architecture: source all
+Version: 1.0.4-1
+Distribution: unstable
+Urgency: low
+Maintainer: Luis GuLo <luisgulo@gmail.com>
+Changed-By: Luis GuLo <luisgulo@gmail.com>
+Description:
+ soundclouding-qt5 - qt5 package for SoundClouding
+Changes:
+ soundclouding-qt5 (1.0.4-1) unstable; urgency=low
+ .
+   * Se incluye idioma castellano e ingles
+   * Spanish and English language included
+Checksums-Sha1:
+ 9ffd57b6f67d3f28ac4a313279d48864bb4c4d54 562 soundclouding-qt5_1.0.4-1.dsc
+ 43c58e16e7a060f013b4850ff5e88d3c1d73c6b3 849 soundclouding-qt5_1.0.4-1.tar.gz
+ a93345120477bec66fe34ca339857dfbb9204179 1364 soundclouding-qt5_1.0.4-1_all.deb
+ 603dd323eece35954e27fae664a30e6d3dd56ac5 4907 soundclouding-qt5_1.0.4-1_amd64.buildinfo
+Checksums-Sha256:
+ c1ae234c59dec8dd78f5d2abd3bbd4386151fce0330cfb8ffe788c6a7d7224b0 562 soundclouding-qt5_1.0.4-1.dsc
+ d0b356f21ac805a99bf78d19b240ed277e31ee8274492861024048f612069af6 849 soundclouding-qt5_1.0.4-1.tar.gz
+ ade7712b0a78307fef4f92111c5e9053bff309ecd8dcf43df0ea64e0d74b8299 1364 soundclouding-qt5_1.0.4-1_all.deb
+ 71b7884b0102114282fd4ded17286c065238813b5d73b4cdda77ff30378cf8a6 4907 soundclouding-qt5_1.0.4-1_amd64.buildinfo
+Files:
+ d5f62882e7f89170992191786e4ff308 562 contrib/sound optional soundclouding-qt5_1.0.4-1.dsc
+ e329c8c3feb99cd4305e8318d31755c8 849 contrib/sound optional soundclouding-qt5_1.0.4-1.tar.gz
+ 96116d50491156712d13729e09cfbfa4 1364 contrib/sound optional soundclouding-qt5_1.0.4-1_all.deb
+ 1bea633f63ebd7fd3bda9070553f05d9 4907 contrib/sound optional soundclouding-qt5_1.0.4-1_amd64.buildinfo
