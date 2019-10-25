@@ -13,4 +13,4 @@ A example of Drag&Drop method in a gambas project.
 Para la descarga se utiliza la ultima version de youtube-dl
 
 
-![Screenshot of SoundClouding](https://raw.githubusercontent.com/luisgulo/SoundClouding/master/SoundClouding.png)
+![Screenshot of SoundClouding](https://raw.githubusercontent.com/luisgulo/SoundClouding/master/SoundClmouding.png)
