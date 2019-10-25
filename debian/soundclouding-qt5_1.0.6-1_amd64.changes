@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sat, 26 Oct 2019 12:00:00 +0000
+Source: soundclouding-qt5
+Binary: soundclouding-qt5
+Architecture: source all
+Version: 1.0.6-1
+Distribution: unstable
+Urgency: low
+Maintainer: Luis GuLo <luisgulo@gmail.com>
+Changed-By: Luis GuLo <luisgulo@gmail.com>
+Description:
+ soundclouding-qt5 - qt5 package for SoundClouding
+Changes:
+ soundclouding-qt5 (1.0.6-1) unstable; urgency=low
+ .
+   * Ajuste de traduccion y boton descarga
+Checksums-Sha1:
+ ef332345ba5b6adecd664767253b060fccd63482 562 soundclouding-qt5_1.0.6-1.dsc
+ b0c94882ce5485ac336482120ffdfb656578c496 837 soundclouding-qt5_1.0.6-1.tar.gz
+ f69b611faef8836b6da08ffb1729d31a3426cdd1 1364 soundclouding-qt5_1.0.6-1_all.deb
+ f2596b3bb999151735c7c3b3443e920affb1a5f1 5244 soundclouding-qt5_1.0.6-1_amd64.buildinfo
+Checksums-Sha256:
+ 2415889eaf1c96e37c50ffe90ea8532923306048d4aa3bed63254d7318958f17 562 soundclouding-qt5_1.0.6-1.dsc
+ 4b4a17ab9e8642124e9241f352063ae723b0758de180b98ea4deb175229bfdcc 837 soundclouding-qt5_1.0.6-1.tar.gz
+ 0f6e7882256d9497dc926f06f8ea1725032d098f964e2f321d5b4be92b5e24be 1364 soundclouding-qt5_1.0.6-1_all.deb
+ 017d627e06df48ea341da8ac5ad30d2e5e5f94182c88d2e1d681494e56b00514 5244 soundclouding-qt5_1.0.6-1_amd64.buildinfo
+Files:
+ 554964137c703c4bfb849777aa43160c 562 contrib/sound optional soundclouding-qt5_1.0.6-1.dsc
+ 1fb92d2c83004c438b8d15e04d667019 837 contrib/sound optional soundclouding-qt5_1.0.6-1.tar.gz
+ 8fa1b486906ae8e987789d3bc0b8f888 1364 contrib/sound optional soundclouding-qt5_1.0.6-1_all.deb
+ 513de0ef2900e92d67c61300c5f12c01 5244 contrib/sound optional soundclouding-qt5_1.0.6-1_amd64.buildinfo

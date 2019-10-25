@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sat, 26 Oct 2019 12:00:00 +0000
+Source: soundclouding
+Binary: soundclouding
+Architecture: source all
+Version: 1.0.6-1
+Distribution: unstable
+Urgency: low
+Maintainer: Luis GuLo <luisgulo@gmail.com>
+Changed-By: Luis GuLo <luisgulo@gmail.com>
+Description:
+ soundclouding - Descarga a tu biblioteca local audio y vídeo de internet para d..
+Changes:
+ soundclouding (1.0.6-1) unstable; urgency=low
+ .
+   * Ajuste de traduccion y boton descarga
+Checksums-Sha1:
+ 74500d1207f79b2f0dc87b2b9cb86e91595837d8 996 soundclouding_1.0.6-1.dsc
+ 6d1da4902abc2941588e8345b58f4234ac697ccc 1375 soundclouding_1.0.6-1.diff.gz
+ 63fb1dc56e959fb0ebd14ff936ae2c3e6d74b24a 1715532 soundclouding_1.0.6-1_all.deb
+ c202051d3d3c710d8017d3a84f0c58954cf2e0db 5786 soundclouding_1.0.6-1_amd64.buildinfo
+Checksums-Sha256:
+ a79d5854581012bf4379d726567ffe000ba34c4b7dc95a5331d948239ff32868 996 soundclouding_1.0.6-1.dsc
+ f136ad60b23ab89d4155d50123f0f2a7946ba7f41c77ba46a440f000f9b748bb 1375 soundclouding_1.0.6-1.diff.gz
+ 0fe96a7af3e68274a0e686f46c403376f48b7345630266e509e549508944a996 1715532 soundclouding_1.0.6-1_all.deb
+ 1a16275316d3e6b7204ce393dbba3c43f561481c2c63221477cb6f09a481c96a 5786 soundclouding_1.0.6-1_amd64.buildinfo
+Files:
+ b1904fb7813111434cc790136427e7a3 996 contrib/sound optional soundclouding_1.0.6-1.dsc
+ 7e20e10c09a92ccd86325e6485055a20 1375 contrib/sound optional soundclouding_1.0.6-1.diff.gz
+ b4f0a534ffe61341e34c9ff0877b2c8c 1715532 contrib/sound optional soundclouding_1.0.6-1_all.deb
+ 71a4223710dad2b488b2974715af6924 5786 contrib/sound optional soundclouding_1.0.6-1_amd64.buildinfo
