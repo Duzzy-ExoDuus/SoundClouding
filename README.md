@@ -7,7 +7,7 @@ Graphic SoundCloud music downloader for Linux
 
 Diseñada como ejemplo del uso del método Drag&Drop en Gambas.
 
-A example of Drag&Drop method in a gambas project
+A example of Drag&Drop method in a gambas project.
 
 
 Para la descarga se utiliza la ultima version de youtube-dl
